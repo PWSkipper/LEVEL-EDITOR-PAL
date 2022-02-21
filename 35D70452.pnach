@@ -1,0 +1,51 @@
+Comment=Crash Bandicoot 4 (PAL - V1.03)
+
+DEVELOPER MODE
+patch=1,EE,201C5868,extended,0803F000
+patch=1,EE,200FC000,extended,0C04C0E8
+patch=1,EE,200FC008,extended,0C06DF1E
+patch=1,EE,200FC010,extended,3C04005C
+patch=1,EE,200FC014,extended,3484D1F0
+patch=1,EE,200FC018,extended,AF84AF5C
+patch=1,EE,200FC01C,extended,00002025
+patch=1,EE,200FC020,extended,0C06DEEC
+patch=1,EE,200FC024,extended,00002825
+patch=1,EE,200FC028,extended,0807161C
+patch=1,EE,2062F8CC,extended,005CD1F0
+patch=1,EE,205CD1F0,extended,0049C660
+patch=1,EE,2049C660,extended,005C1820
+patch=1,EE,205C1820,extended,004BF510
+patch=1,EE,204BF510,extended,005CF588
+patch=1,EE,205CF588,extended,00489DC0
+patch=1,EE,20489DC0,extended,005CD178
+patch=1,EE,205CD178,extended,00484EE0
+patch=1,EE,20131E7C,extended,00000000
+patch=1,EE,20131E8C,extended,00000000
+patch=1,EE,2062ED34,extended,0000001A
+patch=1,EE,2062ED38,extended,00000018
+patch=1,EE,D1D3FDAA,extended,0000F0FE
+patch=1,EE,2062FA10,extended,00000001
+patch=1,EE,E0020001,extended,0062FB4C
+patch=1,EE,D1D3FDAA,extended,0000FDFF
+patch=1,EE,20591FDC,extended,FF090A00
+patch=1,EE,E0020001,extended,0062FB4C
+patch=1,EE,D1D3FDAA,extended,0000FEFF
+patch=1,EE,20591FDC,extended,FF0A0A00
+patch=1,EE,E0020001,extended,0062FB4C
+patch=1,EE,D1D3FDAA,extended,0000F7FF
+patch=1,EE,20591FDC,extended,FF0B0A00
+patch=1,EE,E0020001,extended,0062FB4C
+patch=1,EE,D1D3FDAA,extended,0000FBFF
+patch=1,EE,20591FDC,extended,FF0D0400
+patch=1,EE,D1D3FDAA,extended,00000FFF
+patch=1,EE,20630B94,extended,00000024
+patch=1,EE,D1D3FDAA,extended,0000FFFF
+patch=1,EE,2062EEAC,extended,00000000
+patch=1,EE,D1D3FDAA,extended,0000FFFE
+patch=1,EE,2062EEAC,extended,00000001
+
+
+. Debug Menu (Hold L1, L2, R1, R2, Select)
+. Hidden Menus (L1, R1, L2 or R2 while paused)
+. Splines (Press Select)
+. Warp to Airship - unused/unfinished level (Hold X, O, ^, [])
